@@ -12,6 +12,7 @@
 <br/>
 
 <h3 align="center" > My Connections 
+
 [<img height="23" width="25" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />][instagram]
 [<img height="23" width="25" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 [<img height="23" width="25" src="https://unpkg.com/simple-icons@v7/icons/github.svg" />][github]
