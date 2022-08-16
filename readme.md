@@ -24,15 +24,14 @@
 <br /> 
 
 
-<h3 align="center" > Tech I Use
+<h3 align="center">Languages</h3>
 
-<img align= "center" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"  width = "22" height = "22">
-<img align= "center" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"  width = "22" height = "22">
-<img align= "center" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  width = "22" height = "22">
-<img align= "center" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  width = "22" height = "22">
-
-</h3>
-
+<p aling="center" dir="auto">
+<img  src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"  width = "22" height = "22">
+<img  src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"  width = "22" height = "22" >
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  width = "22" height = "22">
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  width = "22" height = "22">
+</p>
 
 <br />
 <br /> 
