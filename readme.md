@@ -24,16 +24,8 @@
 <br /> 
 
 
-<h3 align="center" >Languages and Tools</h3>
-
-<p align="center">
-<a href = "https://flutter.dev/?gclid=CjwKCAjwo_KXBhAaEiwA2RZ8hNIvToVjCC5Ke8Lo8TY9Ien5TFlHsmx-vlN69p9r4SqaXoTzEhLJkBoCT14QAvD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/flutter.svg "alt="flutter" width="40" height="40"/></a>
-<a href = "https://dart.dev" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/dart.svg" alt="dart" width="40" height="40"/ ></a>
-<a href = "https://www.w3schools.com/html/" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/html.svg" alt="html" width="40" height="40"/></a>
-<a href = "https://www.w3schools.com/css/" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/css.svg" alt="css" width="40" height="40"/></a>
-<a href = "https://cplusplus.com" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/C++.svg/" alt="c++" width="40" height="40"/></a>
-</p>
-
+<h3 align="center">Languages and Tools</h3>
+<p align="center"> <a href="https://laravel.com" target="_blank"> <img src="https://simpleicons.org/icons/laravel.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://simpleicons.org/icons/amazonaws.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com" target="_blank"> <img src="https://simpleicons.org/icons/docker.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://simpleicons.org/icons/nginx.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://simpleicons.org/icons/gnubash.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com" target="_blank"> <img src="https://simpleicons.org/icons/git.svg" alt="git" width="40" height="40"/> </a <a href="https://www.linux.org" target="_blank"> <img src="https://simpleicons.org/icons/linux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://simpleicons.org/icons/php.svg" alt="php" width="40" height="40"/> </a> <a href="https://code.visualstudio.com" target="_blank"> <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="visual studio code" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/phpstorm" target="_blank"> <img src="https://simpleicons.org/icons/phpstorm.svg" alt="phpstorm" width="40" height="40"/> </a> <a href="https://www.figma.com" target="_blank"> <img src="https://simpleicons.org/icons/figma.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://simpleicons.org/icons/postman.svg" alt="postman" width="40" height="40"/> </a> <a href="https://clickup.com" target="_blank"> <img src="https://simpleicons.org/icons/clickup.svg" alt="clickup" width="40" height="40"/> </a> </p>
 
 <br />
 <br /> 
