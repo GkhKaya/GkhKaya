@@ -27,11 +27,11 @@
 <h3 align="center" >Languages and Tools</h3>
 
 <p align="center">
-<a href = "https://flutter.dev/?gclid=CjwKCAjwo_KXBhAaEiwA2RZ8hNIvToVjCC5Ke8Lo8TY9Ien5TFlHsmx-vlN69p9r4SqaXoTzEhLJkBoCT14QAvD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/flutter.svg/">
-<a href = "https://dart.dev" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/dart.svg/" >
-<a href = "https://www.w3schools.com/html/" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/html.svg/">
-<a href = "https://www.w3schools.com/css/" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/css.svg/">
-<a href = "https://cplusplus.com" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/C++.svg/">
+<a href = "https://flutter.dev/?gclid=CjwKCAjwo_KXBhAaEiwA2RZ8hNIvToVjCC5Ke8Lo8TY9Ien5TFlHsmx-vlN69p9r4SqaXoTzEhLJkBoCT14QAvD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/flutter.svg "alt="flutter" width="40" height="40"/></a>
+<a href = "https://dart.dev" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/dart.svg" alt="dart" width="40" height="40"/ ></a>
+<a href = "https://www.w3schools.com/html/" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/html.svg" alt="html" width="40" height="40"/></a>
+<a href = "https://www.w3schools.com/css/" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/css.svg" alt="css" width="40" height="40"/></a>
+<a href = "https://cplusplus.com" target="_blank"><img src="https://unpkg.com/simple-icons@v7/icons/C++.svg/" alt="c++" width="40" height="40"/></a>
 </p>
 
 
