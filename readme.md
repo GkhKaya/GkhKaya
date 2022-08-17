@@ -11,14 +11,14 @@
 
 <br/>
 
-<h3 align="center" > My Connections </h3>
+<h3 align="center" > My Connections 
 
-[<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align = "center"/>][instagram]
+[<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"/>][instagram]
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/github.svg" />][github]
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/spotify.svg" />][spotify]
 
-
+</h3>
 
 <br />
 <br /> 
