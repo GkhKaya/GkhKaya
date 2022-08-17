@@ -18,8 +18,9 @@
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/github.svg" />][github]
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/spotify.svg" />][spotify]
+
 </p>
- </h3>
+</h3>
 
 <br />
 <br /> 
@@ -36,8 +37,9 @@
 <br /> 
 <br />
 
-
+<p align = "center">
 <img align = "center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GkhnKaya00&layout=compact" width = 300>
+</p>
 
  
 
