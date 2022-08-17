@@ -28,6 +28,8 @@
 <p align="center"> <a href="https://flutter.dev/?gclid=CjwKCAjwo_KXBhAaEiwA2RZ8hEvjVKlp5hhm01I3Q5sqPWFdUrrq9iFhX809fiW9Pu9K3wPLpByGZxoCBR4QAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://simpleicons.org/icons/flutter.svg" alt="flutter" width="40" height="40"/> </a> 
 <a href="dart.dev" target="_blank"> <img src="https://simpleicons.org/icons/dart.svg" alt="dart" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/"> <img src="https://simpleicons.org/icons/css3.svg" alt="css" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/"> <img src="https://simpleicons.org/icons/html5.svg" alt="html" width="40" height="40"/> </a> 
+<a href="https://cplusplus.com"> <img src="https://simpleicons.org/icons/C++.svg" alt="C++" width="40" height="40"/> </a> 
 
 </p>
 
