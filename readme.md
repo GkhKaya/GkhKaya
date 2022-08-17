@@ -11,13 +11,13 @@
 
 <br/>
 
-<h3 align="center" > My Connections 
-
+<h3 align="center" > My Connections </h3>
+<p align = "center">
 [<img height="23" width="25" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />][instagram]
 [<img height="23" width="25" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 [<img height="23" width="25" src="https://unpkg.com/simple-icons@v7/icons/github.svg" />][github]
 [<img height="23" width="25" src="https://unpkg.com/simple-icons@v7/icons/spotify.svg" />][spotify]
-</h3>
+</p>
 
 
 <br />
@@ -29,8 +29,6 @@
 <a href="dart.dev" target="_blank"> <img src="https://simpleicons.org/icons/dart.svg" alt="dart" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/"> <img src="https://simpleicons.org/icons/css3.svg" alt="css" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/"> <img src="https://simpleicons.org/icons/html5.svg" alt="html" width="40" height="40"/> </a> 
-<a href="https://cplusplus.com"> <img src="https://simpleicons.org/icons/C++.svg" alt="C++" width="40" height="40"/> </a> 
-
 </p>
 
 <br />
