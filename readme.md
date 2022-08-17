@@ -25,7 +25,11 @@
 
 
 <h3 align="center">Languages and Tools</h3>
-<p align="center"> <a href="https://laravel.com" target="_blank"> <img src="https://simpleicons.org/icons/laravel.svg" alt="laravel" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://flutter.dev/?gclid=CjwKCAjwo_KXBhAaEiwA2RZ8hEvjVKlp5hhm01I3Q5sqPWFdUrrq9iFhX809fiW9Pu9K3wPLpByGZxoCBR4QAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://simpleicons.org/icons/flutter.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://dart.dev" target="_blank"> <img src="https://simpleicons.org/icons/dart.svg" alt="dart" width="40" height="40"/> </a>
+
+
+ </p>
 
 <br />
 <br /> 
