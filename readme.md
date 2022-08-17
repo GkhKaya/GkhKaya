@@ -11,9 +11,9 @@
 
 <br/>
 
-<h3 align="center" > My Connections 
+<h3 align="center" > My Connections  <br/>
 
-[<img style = "padding: 10px" height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"/>][instagram]
+[<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"/>][instagram]
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/github.svg" />][github]
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/spotify.svg" />][spotify]
