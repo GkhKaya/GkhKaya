@@ -7,7 +7,7 @@
 <h1 align="center">Hi :muscle:, I'm Gökhan Kaya</h1>
 
 
-<h2 align="center">Mobile and Web Developer | Software Enginieer
+<h2 align="center">Mobile and Web Developer | Software Engineer
 
 <br/>
 
