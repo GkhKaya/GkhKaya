@@ -18,6 +18,7 @@
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/github.svg" />][github]
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/spotify.svg" />][spotify]
+[<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />][medium]
 
 </p>
 </h3>
@@ -51,4 +52,5 @@
 [twitter]: https://twitter.com/gkhnkaya000
 [github]: https://github.com/GkhnKaya00
 [spotify]: https://open.spotify.com/user/2w723cg82s7d1bohyti3o4y22?si=e88b740fd2c34c42
+[medium]: https://medium.com/@GkhnKya
 
