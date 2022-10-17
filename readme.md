@@ -33,6 +33,7 @@
 <a href="https://www.w3schools.com/css/"> <img src="https://simpleicons.org/icons/css3.svg" alt="css" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/"> <img src="https://simpleicons.org/icons/html5.svg" alt="html" width="40" height="40"/> </a>
 <a href="https://spring.io"> <img src="https://simpleicons.org/icons/spring.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org"> <img src="https://simpleicons.org/icons/kotlin.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
 <br />
