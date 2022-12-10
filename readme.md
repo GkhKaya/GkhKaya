@@ -21,6 +21,7 @@
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" />][medium]
 
 </p>
+ <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 </h3>
 
 <br />
