@@ -48,7 +48,10 @@
 <br /> 
 <br />
  
+ <h3 align="center" >Latest Blog Post
+<p align="center">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@GkhKaya00/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@GkhKaya00/0" alt="Recent Article 0"> 
+ </p>
 
 <br />
 <br /> 
