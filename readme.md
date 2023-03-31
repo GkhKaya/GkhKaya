@@ -48,11 +48,12 @@
 <br /> 
 <br />
  
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gkhkaya00/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gkhkaya00/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@GkhKaya00/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@GkhKaya00/0" alt="Recent Article 0"> 
 
 <br />
 <br /> 
 <br />
+ 
 <p align = "center">
 <img align = "center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GkhKaya&layout=compact" width = 300>
 </p>
