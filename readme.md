@@ -45,7 +45,7 @@
   <br/>
   
 <p align="center">
-    ### ✍️ Random Dev Quote
+   ✍️ Random Dev Quote
  <p>
 
 <p align="center">
