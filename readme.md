@@ -10,11 +10,11 @@
 
 
 
-- 🌱 I’m currently learning **Jatpack Compose and Data Science**
+- 🌱 I’m currently learning **Ios App Development and Data Science**
 
-- 📝 I regularly write articles on [https://medium.com/@GkhKaya00](https://medium.com/@GkhKaya00)
+- 📝 I regularly write articles on [https://devosuit.com](https://devosuit.com)
 
-- 💬 Ask me about **Kotlin-Python**
+- 💬 Ask me about **Swift-Kotlin andPython**
 
 - 📫 How to reach me **gkhkaya00@gmail.com**
   
