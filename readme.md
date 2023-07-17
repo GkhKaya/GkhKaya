@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://devosuit.com](https://devosuit.com)
 
-- 💬 Ask me about **Swift-Kotlin andPython**
+- 💬 Ask me about **Swift and Python**
 
 - 📫 How to reach me **gkhkaya00@gmail.com**
   
