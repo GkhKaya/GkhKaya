@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gokhan Kaya</h1>
-<h3 align="center">I'm currently Android Application Developeloper with Kotlin. Also I share post to Youtube and Instagram.</h3>
+<h3 align="center">I'm currently IOS Application Developeloper with Swift.</h3>
 
 <br/>
 
